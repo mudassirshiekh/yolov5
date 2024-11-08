@@ -44,6 +44,7 @@ To request an Enterprise License please complete the form at [Ultralytics Licens
 <br>
 
 ## <div align="center">YOLO11 🚀 NEW</div>
+#BY Mudassir Alam
 
 We are excited to unveil the launch of Ultralytics YOLO11 🚀, the latest advancement in our state-of-the-art (SOTA) vision models! Available now at **[GitHub](https://github.com/ultralytics/ultralytics)**, YOLO11 builds on our legacy of speed, precision, and ease of use. Whether you're tackling object detection, image segmentation, or image classification, YOLO11 delivers the performance and versatility needed to excel in diverse applications.
 
